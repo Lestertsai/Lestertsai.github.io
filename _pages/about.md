@@ -14,13 +14,13 @@ Education
 
 MS in Biostatistics (2023)
 ------
-Department of Biostatistics
-University of Washington
+Department of Biostatistics \
+University of Washington \
 Seattle, WA
 
 BS in Statistics (2021)
 ------
-National Taipei University
+National Taipei University \
 Taipei, Taiwan
 
 Contact
