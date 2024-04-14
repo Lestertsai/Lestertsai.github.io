@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+Chaoyi (Lester) Tsai
+======
+
 I'm a research assistant at the [Boni Lab](https://mol.ax) in [Temple Unviersity](https://www.temple.edu). 
 
 Education
