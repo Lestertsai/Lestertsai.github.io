@@ -17,6 +17,7 @@ University of Washington \
 Seattle, WA 
 
 ### BS in Statistics (2021)
+Department of Statistics \
 National Taipei University \
 Taipei, Taiwan
 
