@@ -11,12 +11,12 @@ I'm a research assistant at the [Boni Lab](https://mol.ax) in [Temple Unviersity
 
 Education
 ======
-MS in Biostatistics (2023) 
+### MS in Biostatistics (2023) 
 Department of Biostatistics \
 University of Washington \
 Seattle, WA 
 
-BS in Statistics (2021)
+### BS in Statistics (2021)
 National Taipei University \
 Taipei, Taiwan
 
