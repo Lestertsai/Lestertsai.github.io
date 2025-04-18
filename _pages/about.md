@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research assistant at the [Boni Lab](https://mol.ax) in [Temple Unviersity](https://www.temple.edu). 
+I'm a research assistant at the [Boni Lab](https://mol.ax) at [Temple Unviersity](https://www.temple.edu). 
 
 Education
 ======
+### PhD in Biology (2025) 
+Department of Biology \
+Temple Unviersity \
+Philadelphia, PA 
+
 ### MS in Biostatistics (2023) 
 Department of Biostatistics \
 University of Washington \
