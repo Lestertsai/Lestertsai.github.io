@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research assistant at the [Boni Lab](https://mol.ax) at [Temple Unviersity](https://www.temple.edu). 
+I'm a first-year PhD student at the [Boni Lab](https://mol.ax) at [Temple Unviersity](https://www.temple.edu). 
 
 Education
 ======
