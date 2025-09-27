@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Bio"
 permalink: /bio/
 author_profile: true
