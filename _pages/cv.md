@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[CV](https://www.dropbox.com/scl/fi/8yvmeiw3iqqjmxr3khu8r/Chaoyi_Tsai_CV.pdf?rlkey=93xn6csd2t4lv769fnkqz9apy&st=rd2tvb13&dl=0)
+[CV](https://www.dropbox.com/scl/fi/lknaz8ljj3oppgs91yow1/Chaoyi_Tsai_CV_First_Year_PhD.pdf?rlkey=kkqxmq3m6320cjcixa6umznfn&dl=0)
 
 Last Update: September, 25, 2025
